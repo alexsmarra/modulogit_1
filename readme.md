@@ -1,2 +1,2 @@
 Meu primeiro sistema no git
-Adicionando descrição
+Adicionando descrição. Detalhes importantes.
